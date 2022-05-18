@@ -1,0 +1,14 @@
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\obj\Debug\KareAjansProje_DataAccess.csprojAssemblyReference.cache
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\obj\Debug\KareAjansProje_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\KareAjansProje_DataAccess.dll.config
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\KareAjansProje_DataAccess.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\KareAjansProje_DataAccess.pdb
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\KareAjansProje_Entities.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\KareAjansProje_Entities.pdb
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\obj\Debug\KareAjansProje_DataAccess.csproj.CopyComplete
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\obj\Debug\KareAjansProje_DataAccess.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_DataAccess\obj\Debug\KareAjansProje_DataAccess.pdb

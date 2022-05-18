@@ -1,0 +1,27 @@
+﻿@model KareAjansProje_MvcUI.Models.ViewModels.ListMankens
+@{
+    ViewBag.Title = "ListMankens";
+}
+
+<h2>Mankenler</h2>
+<table>
+    <thead>
+    <th>Ad</th>
+    <th>Soyad</th>
+    <th>Beden</th>
+    <th>Saç Rengi</th>
+    <th>Göz Rengi</th>
+    <th colspan="2"></th>
+        </thead>
+    <tbody>
+        @foreach (var item in Model.Mankens)
+        {
+        <td>@item.Ad</td>
+        <td>@item.Soyad</td>
+        <td>@item.Beden.BedenNo</td>
+        <td>@item.SacRengi.Renk</td>
+        <td>@item.GozRengi.Renk</td>
+        <td>@Html.ActionLink("Update", "UpdateManken", new { id = item.MankenID }, new { @class = "btn btn-primary" })</td>
+    }
+        </tbody>
+    </table>

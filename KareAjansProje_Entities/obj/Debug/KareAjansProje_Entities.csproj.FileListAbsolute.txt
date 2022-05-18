@@ -1,0 +1,6 @@
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\bin\Debug\KareAjansProje_Entities.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\bin\Debug\KareAjansProje_Entities.pdb
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\obj\Debug\KareAjansProje_Entities.csprojAssemblyReference.cache
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\obj\Debug\KareAjansProje_Entities.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\obj\Debug\KareAjansProje_Entities.dll
+C:\Users\beste\source\repos\KareAjansProje\KareAjansProje_Entities\obj\Debug\KareAjansProje_Entities.pdb
